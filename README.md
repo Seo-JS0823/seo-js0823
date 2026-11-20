@@ -22,28 +22,36 @@ Java & Spring 기반의 백엔드 개발자입니다.
 <br>
 
 ## Tech stack
-<div style="display: flex; flex-direction: column; gap: 6px;">
-  <div style="display: flex; gap: 6px; align-items: center;">
-    <span style="min-width: 120px;">Language</span>
-    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=333333"/>
-    <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=coffeescript&logoColor=333333"/>
-  </div>
-  <div style="display: flex; gap: 6px; align-items: center;">
-    <span style="min-width: 120px;">Backend</span>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
-  </div>
-  <div style="display: flex; gap: 6px; align-items: center;">
-    <span style="min-width: 120px;">Database</span>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat&logo=mysql&logoColor=FFFFFF"/>
-  </div>
-  <div style="display: flex; gap: 6px; align-items: center;">
-    <span style="min-width: 120px;">DevOps</span>
-    <img src="https://img.shields.io/badge/Redis-2F4F4F?style=flat&logo=redis&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Docker-2F4F4F?style=flat&logo=docker&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/AWS (EC2)-2F4F4F?style=flat">
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="110"><b>Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=333333"/>
+      <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=coffeescript&logoColor=333333"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="110"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="110"><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat&logo=mysql&logoColor=FFFFFF"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="110"><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Redis-2F4F4F?style=flat&logo=redis&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/Docker-2F4F4F?style=flat&logo=docker&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/AWS (EC2)-2F4F4F?style=flat"/>
+    </td>
+  </tr>
+</table>
